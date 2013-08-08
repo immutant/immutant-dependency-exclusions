@@ -1,4 +1,4 @@
-(defproject org.immutant/immutant-dependency-exclusions "0.1.0-SNAPSHOT"
+(defproject org.immutant/immutant-dependency-exclusions "0.1.0"
   :description "A tiny util for excluding Immutant dependencies from Leiningen dependency coordinates"
   :url "https://github.com/immutant/immutant-dependency-exclusions"
   :license {:name "Eclipse Public License"
