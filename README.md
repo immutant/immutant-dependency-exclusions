@@ -1,7 +1,7 @@
 # immutant-dependency-exclusions
 
 A library containing common dependency exclusion code used by
-lein-immutant and Immutant itself.  ## Usage
+lein-immutant and Immutant itself.
 
 ## License
 
