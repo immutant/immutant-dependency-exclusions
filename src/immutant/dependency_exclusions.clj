@@ -23,7 +23,7 @@
 
 (defn exclude-immutant-deps
   "Removes public immutant artifacts from the deps list, and adds them
-  as an exclusion to each remaing dep."
+  as an exclusion to each remaining dep."
   [project]
   (update-in project
              [:dependencies]
